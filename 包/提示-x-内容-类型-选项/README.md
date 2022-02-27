@@ -196,3 +196,4 @@ your project.
 <!-- IIS links -->
 
 [iis config]: https://webhint.io/docs/user-guide/server-configurations/iis/
+能设置删除银行卡吗，一个银行卡能绑定同平台好几个账号，为什么就不能自行删除呢，这样一直捆绑这又什么意义？
